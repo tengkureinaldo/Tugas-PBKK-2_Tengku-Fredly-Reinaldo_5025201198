@@ -1,0 +1,5 @@
+C:\Users\REINALDO\source\repos\WebcameCaptureApp\WebcameCaptureApp\obj\Debug\WebcameCaptureApp.csproj.AssemblyReference.cache
+C:\Users\REINALDO\source\repos\WebcameCaptureApp\WebcameCaptureApp\obj\Debug\WebcameCaptureApp.Form1.resources
+C:\Users\REINALDO\source\repos\WebcameCaptureApp\WebcameCaptureApp\obj\Debug\WebcameCaptureApp.Properties.Resources.resources
+C:\Users\REINALDO\source\repos\WebcameCaptureApp\WebcameCaptureApp\obj\Debug\WebcameCaptureApp.csproj.GenerateResource.cache
+C:\Users\REINALDO\source\repos\WebcameCaptureApp\WebcameCaptureApp\obj\Debug\WebcameCaptureApp.csproj.CoreCompileInputs.cache
